@@ -29,14 +29,14 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/AlyaaXd/R-Txyz-Botz
-> cd R-Txyz-Botz
+> git clone https://github.com/Fourzylol/F
+> cd F
 > npm i
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
-> cp -r R-Txyz-Botz $HOME
-> cd R-Txyz-Botz
+> cp -r F /$HOME
+> cd F
 > npm i
 > node run.js
 ```
