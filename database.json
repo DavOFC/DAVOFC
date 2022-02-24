@@ -1,0 +1,105 @@
+{
+  "users": {
+    "6285748600473@s.whatsapp.net": {
+      "exp": 28,
+      "limit": 10,
+      "registered": false,
+      "lastclaim": 0,
+      "name": ".",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "Hyaktaku V",
+      "joincount": 0,
+      "call": 0,
+      "pc": 1645739749368,
+      "reward": 0,
+      "dailyReward": 0,
+      "warning": 0
+    },
+    "994406397868@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "registered": false,
+      "lastclaim": 0,
+      "name": "FourzyBot",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "",
+      "joincount": 0,
+      "call": 0,
+      "pc": 0,
+      "reward": 0,
+      "dailyReward": 0,
+      "warning": 0
+    }
+  },
+  "chats": {
+    "6285748600473@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1645739750113,
+      "lastSuccess": 1645739750113
+    },
+    "snk.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1645739763192,
+      "lastSuccess": 1645739763192
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "994406397868@s.whatsapp.net": {
+      "anon": true,
+      "anticall": true,
+      "antispam": true,
+      "antitroli": true,
+      "group": false,
+      "jadibot": false,
+      "private": false,
+      "restrict": false,
+      "self": false,
+      "backup": true,
+      "backupDB": 1645739745818,
+      "statusUpdate": false,
+      "status": 1645739762108
+    }
+  }
+}
