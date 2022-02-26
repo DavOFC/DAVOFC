@@ -46,7 +46,7 @@ handler.all = async function (m, { isBlocked }) {
 }
 
     // salam
-    let reg = /(ass?alam|اَلسَّلاَمُ عَلَيْكُمْ|السلام عليکم)/i
+    let reg = /(as?alam|اَلسَّلاَمُ عَلَيْكُمْ|السلام عليکم)/i
     let isSalam = reg.exec(m.text)
     if (isSalam && !m.fromMe) {
         this.sendSticker(m.chat, fs.readFileSync('./src/salam.webp'), m, {sendEphemeral: true})
