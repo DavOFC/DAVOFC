@@ -74,7 +74,7 @@ Simple WhatsApp Bot
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
 
-### BOTCAHX stat
+### Fourzylol stat
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=BOTCAHX&theme=midnight-purple&show_icons=true) 
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=BOTCAHX&theme=monokai)
