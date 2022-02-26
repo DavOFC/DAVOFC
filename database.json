@@ -1,8 +1,8 @@
 {
   "users": {
     "6285748600473@s.whatsapp.net": {
-      "exp": 999999999999999999999,
-      "limit": 1000000000000000000000,
+      "exp": 99999999999,
+      "limit": 10000000000,
       "registered": true,
       "lastclaim": 0,
       "name": "Four",
@@ -24,8 +24,8 @@
       "warning": 0
     },
     "994406397868@s.whatsapp.net": {
-      "exp": 72788838838338337385,
-      "limit": 103473348337334373737,
+      "exp": 727888388383,
+      "limit": 10347334837,
       "registered": false,
       "lastclaim": 0,
       "name": "FourzyBot",
